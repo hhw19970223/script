@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "outDir": "./pm2",
+    "strict": false,
+    "types": ["node"],
+    "declarationDir": "./pm2",
+    "sourceMap": true,
+    "declaration": true,
+    "lib": ["es2015"],
+  },
+  "include": [
+    "./src",
+  ]
+}

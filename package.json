@@ -1,0 +1,16 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "tsc -p tsconfig.json -watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}
